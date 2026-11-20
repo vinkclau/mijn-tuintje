@@ -1,3 +1,4 @@
+
 **Practicum Light & Dark (op school gevolgd) 18 nov**
 
 Tijdens dit practicum heb ik geleerd hoe ik een website automatisch met light & dark mode mee kan laten gaan, of hoe je dit zelf op de website in kunt stellen.
@@ -43,16 +44,35 @@ De volgende les was schetsen, waarbij we uitleg kregen over schets “regels” 
 
 
 
-
 **Woensdag 11 november - Lesdag 2**
 
 Op deze dag zijn we aan de slag gegaan met het html bestand wat je als huiswerk in elkaar moest zetten. Hier hebben we handige dingen van geleerd zoals hoe je een werkende knop maakt, en hoe je een eenvoudig formulier maakt en vormgeeft.
+<img width="260" height="220" alt="Scherm­afbeelding 2026-11-11 om 10 37 38" src="https://github.com/user-attachments/assets/4dc11123-c2a1-4ec9-b6d8-aec478fb4d80" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 10 37 42" src="https://github.com/user-attachments/assets/2c978076-f9b3-437d-b2e5-edc5c1c5558b" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 10 37 03" src="https://github.com/user-attachments/assets/61332dfe-afb1-4d27-b144-2d1e13fa5be1" />
 
 
 Vervolgens hebben we aan de hand van deze informatie verschillende opdrachten moeten maken. Hiervan heb ik geleerd hoe je schaduwen plaatst achter tekst, en hoe je tekst op een bepaalde plek kan plaatsen in het bestand en dit ook schuin kan zetten. De nieuwe dingen die ik heb geleerd zijn text-shadow, text-align, transform en letter spacing.
 
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 11 55 58" src="https://github.com/user-attachments/assets/d4d6ccfc-c923-469b-96d4-de4ce97f234c" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 12 08 42" src="https://github.com/user-attachments/assets/c5a8ee11-49e3-48cb-9b50-29f6f369749d" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 12 09 00" src="https://github.com/user-attachments/assets/5c1aabd2-1d83-46a9-8b60-b341535d1838" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 12 09 07" src="https://github.com/user-attachments/assets/6e64333b-a974-41ba-919a-54260a5add11" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 12 45 11" src="https://github.com/user-attachments/assets/f72fb9ec-6ea3-4372-bb25-7df6d523cbd5" />
+<img width="318" height="314" alt="Scherm­afbeelding 2026-11-11 om 12 45 27" src="https://github.com/user-attachments/assets/10ae6841-657c-4264-b4b4-af04b2b31a3e" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-11 om 12 54 33" src="https://github.com/user-attachments/assets/5d99d995-8ca4-4dfd-9f1a-2e6ed666291e" />
+
+
 
 **Les voorbereiding (gemaakt di 10 nov)**
+
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 16 20 06" src="https://github.com/user-attachments/assets/9da9864d-d3a7-4e63-b0c3-6dfd05326ed7" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 16 20 04" src="https://github.com/user-attachments/assets/290eb8df-8b92-4f00-b347-0d9dc938a9cc" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 20 31 17" src="https://github.com/user-attachments/assets/3bd710fa-4c4f-401e-9817-4b67d2ca4fd6" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 20 31 14" src="https://github.com/user-attachments/assets/fd07dc4f-acc8-4d86-a59a-43fa4433c32e" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 20 14 50" src="https://github.com/user-attachments/assets/8984d06d-b63a-47ed-a45b-9f01b70bd909" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 20 14 41" src="https://github.com/user-attachments/assets/142dca9d-30f8-4c5e-b002-43ffb6ad5bac" />
+<img width="400" height="260" alt="Scherm­afbeelding 2026-11-10 om 20 14 20" src="https://github.com/user-attachments/assets/bfe289f0-fb3f-4426-a3c9-732317924a73" />
 
 
 
