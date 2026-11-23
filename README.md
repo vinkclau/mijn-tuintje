@@ -8,8 +8,9 @@
 <img width="300" height="400" alt="IMG_0515" src="https://github.com/user-attachments/assets/e4ef7c34-6ec3-49c4-a003-1dd73927539e" />
 
 We zijn begonnen met het bespreken van het huiswerk, dit ging over de 5 mobile first schetsen die we moesten maken.
-(hierboven te zien)
-
+(hierboven te zien). 
+<img width="500" height="400" alt="IMG_0523" src="https://github.com/user-attachments/assets/e6af09d4-7534-4182-9b87-d5c37588be92" />
+Hier hebben we vervolgens een beoordeling over geschreven, om te kijken of de schetsen "Webby" genoeg zijn. Ik heb geleerd om kritisch naar mijn schetsen te kijken en deze de volgende keer nog duidelijker te maken. 
 
 
 
