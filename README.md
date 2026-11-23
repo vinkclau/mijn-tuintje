@@ -4,12 +4,18 @@
 Op deze lesdag zijn we begonnen met onze presentaties aan elkaar geven. Hier zijn voor mij de volgende dingen uitgekomen:
 
 *Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?*
+Het overbrengen van het gevoel wat ik krijg bij wedstrijddans.
+
 
 *Heeft 'de ander' een aanvulling op je onderwerp?​*
+Letten op kleurgebruik, een duidelijke sfeer neerzetten, werken met een tijdlijn, mensen meenemen in wat mijn gevoel is.
 
 *Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)*
+Vrolijk, krachtig, zelfverzekerd, zwaar, elegant, energie, beweging.
 
-*Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.*​
+*Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz*​
+
+
 
 *Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​*
 
