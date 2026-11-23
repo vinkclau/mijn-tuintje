@@ -14,16 +14,17 @@ Letten op kleurgebruik, een duidelijke sfeer neerzetten, werken met een tijdlijn
 Vrolijk, krachtig, zelfverzekerd, zwaar, elegant, energie, beweging.
 
 *Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz*​
-
+Een trots en krachtig gevoel, ik vind abstracte vormen hier het meest bij passen.
 
 
 *Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​*
+Ik wil vooral vertellen door middel van beelden en geluiden, dit vind ik voor mijn onderwerp het meest toepasselijk.
 
 *Vul deze zinnen aan:*
-Ik wil mijn Digital Garden laten gaan over ………………………………….
-en wil dat laten zien door …………………………….. aan content te tonen.
-Ik begin met een stukje eigen content over …………………….… . ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door ….....................​
+Ik wil mijn Digital Garden laten gaan over mijn ervaring/groei in wedstrijddans.
+en wil dat laten zien door veel beeld en geluid content te tonen.
+Ik begin met een stukje eigen content over mijn ervaring op het wedstrijd podium. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meerdere pagina's toe te voegen over de verschillende wedstrijden en stijlen die ik doe.​
 
 Ook zijn we aan de slag gegaan met visual research, dit hielp heel erg om mijn idee beter in kaart te brengen:
 [Visual Research klas 203.pdf](https://github.com/user-attachments/files/35156873/Visual.Research.klas.203.pdf)
