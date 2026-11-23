@@ -1,3 +1,10 @@
+**Vrijdag 20 november - Lesdag 6**
+
+
+
+
+
+
 **Woensdag 18 november - Lesdag 5**
 
 
@@ -30,7 +37,7 @@ Ook zijn we aan de slag gegaan met visual research, dit hielp heel erg om mijn i
 [Visual Research klas 203.pdf](https://github.com/user-attachments/files/35156873/Visual.Research.klas.203.pdf)
 <img width="875" height="4569" alt="Visual Research klas 203 - Claudia" src="https://github.com/user-attachments/assets/630a31c2-2b6f-4c4f-b768-0a58c98f1de2" />
 
-Mijn inzichten hieruit staan ook al aangegeven onder aan mijn miro bord, maar ik zal deze nog even toelichten:
+Mijn inzichten hieruit staan onder aan mijn micro bord.
 
 
 
