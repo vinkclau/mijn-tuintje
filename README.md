@@ -1,12 +1,20 @@
 **Vrijdag 20 november - Lesdag 6**
 
+<img width="400" height="300" alt="IMG_0521" src="https://github.com/user-attachments/assets/8e3e9b8d-c0da-44b2-a1d0-543d8c66c562" />
+<img width="400" height="500" alt="IMG_0520" src="https://github.com/user-attachments/assets/eeaf7b83-db32-49fe-958a-f65d0051ecd2" />
+<img width="400" height="500" alt="IMG_0519" src="https://github.com/user-attachments/assets/d4aac96c-e13d-4a80-90d3-fab7524de497" />
+<img width="400" height="500" alt="IMG_0518" src="https://github.com/user-attachments/assets/19a1eee1-8ee9-49e1-8d30-caa9b31f1fd9" />
+<img width="400" height="500" alt="IMG_0517" src="https://github.com/user-attachments/assets/836b8fce-4b55-4d84-af31-590a681da65c" />
+<img width="300" height="400" alt="IMG_0515" src="https://github.com/user-attachments/assets/e4ef7c34-6ec3-49c4-a003-1dd73927539e" />
+
+We zijn begonnen met het bespreken van het huiswerk, dit ging over de 5 mobile first schetsen die we moesten maken.
+(hierboven te zien)
 
 
 
 
 
 **Woensdag 18 november - Lesdag 5**
-
 
 Op deze lesdag zijn we begonnen met onze presentaties aan elkaar geven. Hier zijn voor mij de volgende dingen uitgekomen:
 
