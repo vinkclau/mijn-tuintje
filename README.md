@@ -1,3 +1,16 @@
+**Practicum Grid 101 + Media queries 101 (op school gevolgd) vrij 20 nov**
+
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 16 08 03" src="https://github.com/user-attachments/assets/0354ad54-ba84-4919-bf24-a8c0f0efd711" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 15 32 21" src="https://github.com/user-attachments/assets/fa5bc778-19bb-45fb-98d2-c89175b657dc" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 15 04 57" src="https://github.com/user-attachments/assets/c9ad7397-7fcb-4eb6-904c-cfbfcd569bd5" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 14 59 56" src="https://github.com/user-attachments/assets/15c2b516-9f27-4234-a1cb-173efa97d08f" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 14 57 51" src="https://github.com/user-attachments/assets/de30b8ed-d643-404c-8090-a0c963ea82a6" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 14 54 59" src="https://github.com/user-attachments/assets/1a012f00-7fcf-4f82-9d37-b5ab05ee9aa1" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 14 53 37" src="https://github.com/user-attachments/assets/3ba7d851-b527-44ac-ac5c-782b550fd37a" />
+
+
+
+
 **Vrijdag 20 november - Lesdag 6**
 
 <img width="400" height="300" alt="IMG_0521" src="https://github.com/user-attachments/assets/8e3e9b8d-c0da-44b2-a1d0-543d8c66c562" />
