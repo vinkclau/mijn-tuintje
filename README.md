@@ -1,3 +1,12 @@
+**Woensdag 25 november - Lesdag 8**
+
+
+**Maandag 23 november - Lesdag 7**
+
+
+
+
+
 **Practicum Grid 101 + Media queries 101 (op school gevolgd) vrij 20 nov**
 
 <img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 16 08 03" src="https://github.com/user-attachments/assets/0354ad54-ba84-4919-bf24-a8c0f0efd711" />
