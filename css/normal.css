@@ -9,12 +9,40 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Josefin Sans";
+  src: url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
 /**************************
 * MARK: Custom properties
 **************************/
 
 html {
   color-scheme: light dark;
+
+  --rood: crimson;
+  --oranje: darkorange;
+  --geel: gold;
+  --groen: #3a0;
+  --blauw: dodgerblue;
+  --donkerblauw: #048;
+  --paars: purple;
+  --bruin: brown;
+  --zwart: black;
+  --grijs: darkgray;
+  --wit: white;
+
+  background-image: conic-gradient(
+    var(--blauw) 90deg,
+    var(--paars) 90deg 180deg,
+    var(--rood) 180deg 270deg,
+    var(--wit) 270deg
+  );
+
+  background-size: 2em 2em;
 }
 
 /**************************
@@ -40,6 +68,7 @@ body {
 **************************/
 
 header {
+  font-family: "Josefin Sans";
 }
 
 /**************************
