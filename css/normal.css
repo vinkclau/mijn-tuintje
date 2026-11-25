@@ -23,26 +23,8 @@
 html {
   color-scheme: light dark;
 
-  --rood: crimson;
-  --oranje: darkorange;
-  --geel: gold;
-  --groen: #3a0;
-  --blauw: dodgerblue;
-  --donkerblauw: #048;
-  --paars: purple;
-  --bruin: brown;
-  --zwart: black;
-  --grijs: darkgray;
-  --wit: white;
-
-  background-image: conic-gradient(
-    var(--blauw) 90deg,
-    var(--paars) 90deg 180deg,
-    var(--rood) 180deg 270deg,
-    var(--wit) 270deg
-  );
-
-  background-size: 2em 2em;
+  --achtergrond: light-dark(pink, black);
+  --color: light-dark(lightyellow, indigo);
 }
 
 /**************************
@@ -61,6 +43,11 @@ img {
 
 body {
   font-family: "Comic Relief", system-ui;
+  background-image: radial-gradient(
+    circle at 50% 60%,
+    var(--achtergrond) 50%,
+    var(--color)
+  );
 }
 
 /**************************
