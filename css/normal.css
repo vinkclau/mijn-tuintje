@@ -51,8 +51,6 @@ body {
     var(--achtergrond) 50%,
     var(--color)
   );
-
-  background-repeat: no-repeat;
 }
 
 /**************************
