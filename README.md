@@ -14,7 +14,16 @@ We zijn begonnen met het bespreken van het huiswerk, dit ging over de 5 mobile f
 
 Hier hebben we vervolgens een beoordeling over geschreven, om te kijken of de schetsen "Webby" genoeg zijn. Ik heb geleerd om kritisch naar mijn schetsen te kijken en deze de volgende keer nog duidelijker te maken. Het bleek dat ik met veel dingen geen rekening heb gehouden. 
 
+Vervolgens moesten we onze schets vertalen naar html, maar hier ben ik niet aan toe gekomen.
 
+Hierna volgde het eerste voortgang gesprek, hier liet ik mijn visual research en schetsen zien. De conclusie van het gesprek was dat ik het niet te moeilijk moest maken, en dat ik nog een keer goed moest nadenken over of ik wel bewegende delen wil toevoegen ja of nee. Verder werd mij verteld dat ik tot nu toe goed op weg ben en dat ik een goed idee heb.
+
+**Practicum Mooie kleuren en gradients (op school gevolgd) woe 18 nov**
+
+In dit practicum hebben we geoefend met verschillende kleur codes en gradients. Hier heb ik geleerd hoe ik welke kleur codes gebruik, en welke handig zijn om in bepaalde situaties te gebruiken. Ook hebben we geleerd hoe je een gradient in code typt, en hoe je die kunt toepassen.
+
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-18 om 14 40 27" src="https://github.com/user-attachments/assets/9853b8bc-f914-4de5-bef6-c6b91e0852b2" />
+<img width="400" height="300" alt="Scherm­afbeelding 2026-11-18 om 16 15 18" src="https://github.com/user-attachments/assets/ace31a20-273d-44bd-b0f6-24f900ce0a00" />
 
 
 **Woensdag 18 november - Lesdag 5**
