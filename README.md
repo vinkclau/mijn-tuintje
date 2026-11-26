@@ -3,11 +3,29 @@
 
 **Maandag 23 november - Lesdag 7**
 
+Op de maandag zijn we gestart met de Bi-weekly geek, deze ging over wat het internet nou eigenlijk is. Over dit onderwerp hebben we als groepje een vraag gekregen, wij kregen de vraag: "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?". Voor deze hoofdvraag hebben we vervolgens deelvragen opgesteld voor een ander groepje.
+<img width="400" height="300" alt="Afbeelding" src="https://github.com/user-attachments/assets/942707a5-e020-48ef-bacb-42d86c687c84" />
+Hierna kregen wij het blad van een ander groepje en een formulier met verschillende onderzoeksmethodes. We hebben bepaald met welke methode welke deelvraag het beste te beantwoorden is. Dit was belangrijk aangezien hier richting het afstuderen nog veel mee gewerkt gaat worden. Ik heb hiervan mee genomen dat je methodes hebt die gericht zijn op feitelijk onderzoek (literature study, expert interview), en dat er ook methodes zijn die zich meer richten op meningen (survey).
+<img width="400" height="300" alt="IMG_0514" src="https://github.com/user-attachments/assets/a1586c97-adc9-4780-bf2e-cd0a7a3a5a7d" />
 
+Opdracht 16 en 17 hebben we niet echt in de les behandeld, we hebben vooral zelfstandig gewerkt aan ons tuintje.
+
+Checkout:
+
+*1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?*
+Een website is lelijk als de html code er niet voor zorgt dat alles goed is ingedeeld of als de website niet toegankelijk/ duidelijk is.
+
+*2. Vertel welke volgende stap je neemt om je website responsive te maken.*
+Door in html een grid te maken, en daar al mijn content in te zetten. Vervolgens de min en max width aangeven tot hoever de content op het beeld mag komen. Zo kan de website mee bewegen met alle scherm formaten.
+
+*3. Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?*
+Ik vrees dat ik dit nog niet kan….
 
 
 
 **Practicum Grid 101 + Media queries 101 (op school gevolgd) vrij 20 nov**
+
+In dit practicum hebben we gewerkt met grids, hier heb ik geleerd hoe je een website via html in grinds kan indelen. Ook heb ik nu geoefend met het maken van een kaartje / formulier die meewerkt met de grootte van je scherm. Ik vond dit practicum erg leerzaam en heb zeker dingen geleerd die ik wil toepassen op mijn website.
 
 <img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 16 08 03" src="https://github.com/user-attachments/assets/0354ad54-ba84-4919-bf24-a8c0f0efd711" />
 <img width="400" height="300" alt="Scherm­afbeelding 2026-11-20 om 15 32 21" src="https://github.com/user-attachments/assets/fa5bc778-19bb-45fb-98d2-c89175b657dc" />
@@ -36,6 +54,12 @@ Hier hebben we vervolgens een beoordeling over geschreven, om te kijken of de sc
 Vervolgens moesten we onze schets vertalen naar html, maar hier ben ik niet aan toe gekomen.
 
 Hierna volgde het eerste voortgang gesprek, hier liet ik mijn visual research en schetsen zien. De conclusie van het gesprek was dat ik het niet te moeilijk moest maken, en dat ik nog een keer goed moest nadenken over of ik wel bewegende delen wil toevoegen ja of nee. Verder werd mij verteld dat ik tot nu toe goed op weg ben en dat ik een goed idee heb.
+
+Checkout:
+
+*Welke feedback heb je gehad?*
+Dat ik het niet te moeilijk voor mijzelf moet maken, en dat stilstaand beeld voor mijn website om mee te beginnen beter zou werken. 
+
 
 **Practicum Mooie kleuren en gradients (op school gevolgd) woe 18 nov**
 
@@ -74,6 +98,17 @@ Ook zijn we aan de slag gegaan met visual research, dit hielp heel erg om mijn i
 <img width="875" height="4569" alt="Visual Research klas 203 - Claudia" src="https://github.com/user-attachments/assets/630a31c2-2b6f-4c4f-b768-0a58c98f1de2" />
 
 Mijn inzichten hieruit staan onder aan mijn micro bord.
+
+Checkout:
+*1. Leg uit waar het Visual Research in 3 stappen naartoe werkt.*
+Je neemt beelden waar je inspiratie uit haalt, hier koppel je abstractere kunst en beelden aan, en uit die beelden haal je elementen die bij jouw sfeer passen die je kunt toepassen in je ontwerp
+
+*2. Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).*
+Mijn garden gaat over mijn groei in wedstrijddans in de afgelopen 8 jaar. Ik laat zien hoe dit mij kracht geeft en wat het voor mij betekend, dit doormiddel van veel beeld en geluidsfragmenten.
+
+*3. Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.*
+Het idee dat ik mijn groei laat zien door afbeeldingen van mijzelf door de jaren heen laat zien op een podium setting, of dat ik door eerdere afbeeldingen laat zien hoe ik verder gegroeid ben en hoe dit mij kracht heeft gegeven.
+
 
 **Practicum Light & Dark (op school gevolgd) di 17 nov**
 
@@ -114,7 +149,7 @@ De light en dark mode van mijn website vond ik kwa contrast erg sterk, dit zou i
 _Welke webby dingen heb je gezien die je ook wil gebruiken?_
 Hoe de buttons waren vormgegeven vond ik erg clean en duidelijk, dit zou ik graag ook willen toepassen. Zo wordt de website overzichtelijk en krijgt deze een goede samenhang. Ook vond ik de hiërarchie erg sterk, je kon alles makkelijk op een logische plek vinden.
 
-*Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt!*​
+*Welke eigen content zou je over het onderwerp kunnen schrijven? Wat is de toon, ​de context, het doel, wat zijn onderwerpen, wat is ‘het’ wat jou raakt*​
 (Mijn tuintje gaat over wedstrijddans) Graag wil ik aan de bezoeker van mijn website over willen brengen hoe ik de afgelopen jaren gegroeid ben in dans, en hoe en waarom dit mij kracht geeft. Als ik hier over ga schrijven wil ik hetzelfde gevoel overbrengen als wat ik voel als ik het podium op ga. Voor nu is het doel om mensen te inspireren en te overtuigen om zelf ook kracht uit iets te halen, en hard te werken voor doelen die je graag wilt behalen.
 
 _Maak je gebruik van content van een ander? Hoe denk je dat te doen? En mag dat eigenlijk wel? Hoe kan je die content zo aanpassen dat het echt een eigen verhaal wordt? Dat het echt jouw content wordt, op jouw eigen garden?_
@@ -122,6 +157,17 @@ Aangezien ik mijn website over eigen ervaringen maak denk ik niet dat ik content
 
 _Op welke manier is de content te ervaren, denk verder dan alleen in teksten beeld (beleeft, voelt, ziet, hoort enz.)_
 Graag wil ik geluid opnames gebruiken van momenten voordat ik het podium op ga. Ik zit er ook aan te denken om videos toe te voegen, maar ik twijfel nog. Het lijkt mij misschien krachtiger om bezoekers alleen op audio en eventueel bijpassende foto’s te laten focussen.
+
+Checkout:
+*1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.*
+Een digital garden is een website die vaak gaat over iets wat voor jou belangrijk is. Ook is een belangrijk punt van een garden dat deze kan blijven groeien met nieuwe informatie.
+
+*2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.*
+Een website moet adaptief zijn, dus zich aan passen aan meerdere formaten schermen. Interactie dmv buttons is erg belangrijk, dit is te zien aan of de button verschillende states heeft. En hierbij is toegankelijkheid ook van belang, zijn de knoppen bijvoorbeeld allemaal groot genoeg?
+
+*3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.*
+Graag wil ik een omgeving creëren die gaat over een van de belangrijkste dingen voor mij, namelijk dansen. Hierbij wil ik gaan voor een hele interactieve website met veel afbeeldingen.
+
 
 **Vrijdag 13 november - Lesdag 3**
 
