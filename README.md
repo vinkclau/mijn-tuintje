@@ -1,16 +1,41 @@
 **Woensdag 25 november - Lesdag 8**
 
+Op deze dag was ik om eerlijk te zijn niet erg aan het opletten... Ik heb mijn aandacht vooral bij mijn garden gehouden. De les ging over gestalt en ontwerp principes, en hiervan hebben we dingen moeten toepassen in opdracht 18, 19, 20 en 21.
+
+<img width="400" height="500" alt="IMG_0573" src="https://github.com/user-attachments/assets/3783a19a-432e-440c-b744-f002fa6b677b" />
+<img width="400" height="500" alt="IMG_0574" src="https://github.com/user-attachments/assets/3e814110-8463-44b7-a4f6-09e712983921" />
+Hiervan heb ik vooral geleerd dat als je nieuwe ideeën nodig hebt of een nieuwe blik nodig hebt op je eigen idee, het handig kan zijn om aan een ander te vragen om je te helpen met het maken van een volgende schets.
+
+Checkout:
+
+
+*1. Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.*
+Op dit moment kan ik dit niet samen doen, maar ik heb deze zelf beantwoord.
+Vergelijkbare vormen worden bij elkaar gegroepeerd - Similarity.
+Als vormen overlappen worden deze al snel als 1 vorm gezien - Continuation.
+Als veel objecten op een bepaalde manier bij elkaar staan worden ze als 1 vorm gezien - Good Figure.
+
+*2. Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?*
+Je kunt zelf aangeven hoe je rijen en kolommen eruit zien, maar alles staat hier alsnog netjes in geordend.
+
+*3. Welk principe neem je mee in een laatste iteratie van je eigen Garden?*
+Scale, dit wil ik gaan gebruiken om belangrijkere gebeurtenissen uit te lichten op mijn pagina zodat die het meeste aandacht trekken.
+
 
 **Maandag 23 november - Lesdag 7**
 
 Op de maandag zijn we gestart met de Bi-weekly geek, deze ging over wat het internet nou eigenlijk is. Over dit onderwerp hebben we als groepje een vraag gekregen, wij kregen de vraag: "Zijn overheden verantwoordelijk voor de betrouwbaarheid van het internet?". Voor deze hoofdvraag hebben we vervolgens deelvragen opgesteld voor een ander groepje.
+
 <img width="400" height="300" alt="Afbeelding" src="https://github.com/user-attachments/assets/942707a5-e020-48ef-bacb-42d86c687c84" />
+
 Hierna kregen wij het blad van een ander groepje en een formulier met verschillende onderzoeksmethodes. We hebben bepaald met welke methode welke deelvraag het beste te beantwoorden is. Dit was belangrijk aangezien hier richting het afstuderen nog veel mee gewerkt gaat worden. Ik heb hiervan mee genomen dat je methodes hebt die gericht zijn op feitelijk onderzoek (literature study, expert interview), en dat er ook methodes zijn die zich meer richten op meningen (survey).
+
 <img width="400" height="300" alt="IMG_0514" src="https://github.com/user-attachments/assets/a1586c97-adc9-4780-bf2e-cd0a7a3a5a7d" />
 
 Opdracht 16 en 17 hebben we niet echt in de les behandeld, we hebben vooral zelfstandig gewerkt aan ons tuintje.
 
 Checkout:
+
 
 *1. Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?*
 Een website is lelijk als de html code er niet voor zorgt dat alles goed is ingedeeld of als de website niet toegankelijk/ duidelijk is.
@@ -57,6 +82,7 @@ Hierna volgde het eerste voortgang gesprek, hier liet ik mijn visual research en
 
 Checkout:
 
+
 *Welke feedback heb je gehad?*
 Dat ik het niet te moeilijk voor mijzelf moet maken, en dat stilstaand beeld voor mijn website om mee te beginnen beter zou werken. 
 
@@ -100,6 +126,8 @@ Ook zijn we aan de slag gegaan met visual research, dit hielp heel erg om mijn i
 Mijn inzichten hieruit staan onder aan mijn micro bord.
 
 Checkout:
+
+
 *1. Leg uit waar het Visual Research in 3 stappen naartoe werkt.*
 Je neemt beelden waar je inspiratie uit haalt, hier koppel je abstractere kunst en beelden aan, en uit die beelden haal je elementen die bij jouw sfeer passen die je kunt toepassen in je ontwerp
 
@@ -159,6 +187,8 @@ _Op welke manier is de content te ervaren, denk verder dan alleen in teksten bee
 Graag wil ik geluid opnames gebruiken van momenten voordat ik het podium op ga. Ik zit er ook aan te denken om videos toe te voegen, maar ik twijfel nog. Het lijkt mij misschien krachtiger om bezoekers alleen op audio en eventueel bijpassende foto’s te laten focussen.
 
 Checkout:
+
+
 *1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.*
 Een digital garden is een website die vaak gaat over iets wat voor jou belangrijk is. Ook is een belangrijk punt van een garden dat deze kan blijven groeien met nieuwe informatie.
 
