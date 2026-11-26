@@ -4,6 +4,7 @@ Op deze dag was ik om eerlijk te zijn niet erg aan het opletten... Ik heb mijn a
 
 <img width="400" height="500" alt="IMG_0573" src="https://github.com/user-attachments/assets/3783a19a-432e-440c-b744-f002fa6b677b" />
 <img width="400" height="500" alt="IMG_0574" src="https://github.com/user-attachments/assets/3e814110-8463-44b7-a4f6-09e712983921" />
+
 Hiervan heb ik vooral geleerd dat als je nieuwe ideeën nodig hebt of een nieuwe blik nodig hebt op je eigen idee, het handig kan zijn om aan een ander te vragen om je te helpen met het maken van een volgende schets.
 
 Checkout:
